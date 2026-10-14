@@ -33,5 +33,5 @@ r.nouls["phishing"].noul    # 0.90: act, close, or ask a person
 We publish where our models lose as well as where they win. Everything here is open source: code
 under Apache-2.0 or MIT, Kenning weights under Apache-2.0.
 
-<sub>Created and maintained by [Jesus Rodriguez](https://github.com/jesusdrodriguez). Not affiliated
+<sub>Created and maintained by [David Rodriguez](https://github.com/jesusdrodriguez). Not affiliated
 with TypeSafe AI or Cloudflare. Contact: systemonedev@gmail.com</sub>
